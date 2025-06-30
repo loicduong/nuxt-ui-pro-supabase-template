@@ -4,7 +4,8 @@ export default defineNuxtConfig({
     '@nuxt/ui-pro',
     '@nuxt/eslint',
     '@nuxt/image',
-    '@nuxthub/core'
+    '@nuxthub/core',
+    '@nuxtjs/supabase'
   ],
 
   devtools: {
